@@ -1,0 +1,16 @@
+body {
+    background-size: cover;
+    background-image: url(../img/fondo-cofagrigus.jpg);
+}
+
+a {
+    color: white;
+    background-color: #ffd06e;
+    border-radius: 20%;
+    padding: 8px;
+}
+
+* {
+    color: white;
+    text-shadow: black 0.1em 0.1em 0.2em
+}

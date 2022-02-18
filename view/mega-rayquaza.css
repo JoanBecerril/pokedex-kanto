@@ -1,0 +1,9 @@
+body {
+    background-size: cover;
+    background-image: url(../img/fondo-mega-rayquaza.jpg);
+}
+
+* {
+    color: white;
+    text-shadow: black 0.1em 0.1em 0.2em
+}
